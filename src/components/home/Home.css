@@ -1,0 +1,22 @@
+
+
+/* . */
+
+
+.sub-main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: end;
+    margin-inline: 190px;
+    height: 100vh;
+
+
+}
+
+.sub-main{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
