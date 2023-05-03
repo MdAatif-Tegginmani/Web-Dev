@@ -1,8 +1,17 @@
 
+import './Skills.css'
 
 
 export default function Skills() {
+  
   return (
-    <div>Skills</div>
+    <div className='color-change-2x' >
+      hey
+    
+    
+    
+    
+    
+    </div>
   )
 }
